@@ -363,7 +363,7 @@
 
 .red-dot {
     background-color: red;
-    background: url(Assets/icons/red-dot.svg);
+    background: url(assets/icons/red-dot.svg);
     background-size: contain;
 }
 
